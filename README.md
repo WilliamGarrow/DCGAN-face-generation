@@ -10,4 +10,4 @@ The approach is based on creating two separate deep neural networks competing wi
 They compete until the discriminator cannot distinguish between the real and the generated images by continually training and calculating the loss while creating the optimization operations for the GANs.
 
 ### My Project Submission
-[Jupyter Notebook](https://github.com/WilliamGarrow/DCGAN-face-generation/blob/master/dlnd_face_generation.ipynb)
+[Jupyter Notebook](/dlnd_face_generation.ipynb)
